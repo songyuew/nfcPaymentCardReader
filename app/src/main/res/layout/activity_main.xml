@@ -26,9 +26,7 @@
         android:textSize="20sp"
         android:textStyle="bold" />
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -94,6 +92,6 @@
                 app:dividerThickness="4dp" />
 
         </LinearLayout>
-    </ScrollView>
+
 
 </LinearLayout>
