@@ -52,7 +52,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="read data - do not move the card" />
+                    android:text="Reading data - do not move the card" />
 
             </LinearLayout>
 
